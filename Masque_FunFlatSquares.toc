@@ -1,0 +1,8 @@
+## Interface: 90005
+## Title: Masque: FunFlatSquares
+## Version: 0.0.3
+## Author: podboq2872
+## Notes: FunFlatSquares skin for Masque.
+## Dependencies: Masque
+
+FunFlatSquares.lua
